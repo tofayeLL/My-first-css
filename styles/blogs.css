@@ -1,0 +1,34 @@
+
+
+.header{
+    height: 400px;
+    background-image: url('/images/coding7.jpg');
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    /* background-size: contain; */
+    /* background-size: 200px; */
+}
+h3{
+    font-size: 30px;
+    text-decoration: overline;
+}
+.second{
+    /* display: none; */
+    /* visibility: hidden; */
+}
+.blog{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 40px;
+    border: 5px solid tomato;
+    padding: 10px;
+    box-shadow: 10px 10px 20px  blueviolet;
+}
+.dolor{
+    border: 2px solid red;
+    /* height: 200px; */
+    /* display: block; */
+    margin: 20px;
+   display: inline-block;
+}
